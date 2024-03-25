@@ -66,5 +66,8 @@ review2 = Review(customer2, restaurant2, 5)
 top_restaurants = Restaurant.top_two_restaurants()
 print("Top two restaurants:", [restaurant.name for restaurant in top_restaurants])
 
+setup instructions
+pytest
+
 Author
 saarakhalid GitHub: @saarakhalid LinkedIn: saarakhalid
